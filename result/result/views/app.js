@@ -48,3 +48,7 @@ function getPercentages(a, b) {
 
   return result;
 }
+
+function rb(a, b) {
+  return a+b;
+}
